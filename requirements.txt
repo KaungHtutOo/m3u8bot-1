@@ -1,7 +1,9 @@
+pyrogram
 aiohttp
+aiofiles
 hachoir
 Pillow
-https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
+git+https://github.com/XMYSTERlOUSX/pyrogram
 requests
 tgcrypto
 youtube-dl
